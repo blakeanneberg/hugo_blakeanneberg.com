@@ -1,6 +1,5 @@
 theme = 'PaperMod'
 
-
 [[menu.main]]
 identifier = "categories"
 name = "categories"
@@ -12,6 +11,12 @@ identifier = "tags"
 name = "tags"
 url = "/tags/"
 weight = 20
+
+[[menu.main]]
+identifier = "InTheHyperloop"
+name = "InTheHyperloop.com"
+url = "https://www.inthehyperloop.com/"
+weight = 30
 
 [[menu.main]]
 identifier = "example"
