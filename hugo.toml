@@ -1,20 +1,9 @@
 theme = 'PaperMod'
 
-[[menu.main]]
-identifier = "categories"
-name = "categories"
-url = "/categories/"
-weight = 10
 
 [[menu.main]]
-identifier = "tags"
-name = "tags"
-url = "/tags/"
-weight = 20
-
-[[menu.main]]
-identifier = "about.md"
-name = "about.md"
+identifier = "About"
+name = "About"
 url = "/about.md/"
 weight = 20
 
@@ -29,3 +18,19 @@ identifier = "CoorieHome.com"
 name = "CoorieHome.com"
 url = "https://www.cooriehome.com/"
 weight = 30
+
+
+
+[[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
+
+
