@@ -1,4 +1,4 @@
-baseURL = 'http://blakeanneberg.com/'
+baseURL = 'https://blakeanneberg.com/'
 languageCode = 'en-us'
 title = 'BlakeAnneberg.com'
 
@@ -8,10 +8,10 @@ Title = "Hi there wave"
 Content = "Can be Info, links, about..."
 
 [[params.socialIcons]]
-name = "<platform>"
-url = "<link>"
+name = "github"
+url = "https://github.com/blakeanneberg"
 
 [[params.socialIcons]]
-name = "<platform 2>"
-url = "<link2>"
+name = "youtube"
+url = "https://www.youtube.com/channel/blakeanneberg"
 

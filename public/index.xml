@@ -6,7 +6,15 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 15:51:54 -0700</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 25 Feb 2024 15:51:54 -0700</pubDate>
+      <guid>/about/</guid>
+      <description>Learning to Code. I am using tools like Neovim, Coursera courses and github to develop this website. I have been learning code for many years now, and it has been helpfull in my various jobs and projects. My goal is to have a hyperloop inspired landing, where the visitor will see a map of moving hyperloop pods.
+Random fact: I love Civilization 1.</description>
+    </item>
   </channel>
 </rss>

@@ -13,13 +13,19 @@ url = "/tags/"
 weight = 20
 
 [[menu.main]]
+identifier = "about.md"
+name = "about.md"
+url = "/about.md/"
+weight = 20
+
+[[menu.main]]
 identifier = "InTheHyperloop"
 name = "InTheHyperloop.com"
 url = "https://www.inthehyperloop.com/"
 weight = 30
 
 [[menu.main]]
-identifier = "example"
-name = "example.org"
-url = "https://example.org"
+identifier = "CoorieHome.com"
+name = "CoorieHome.com"
+url = "https://www.cooriehome.com/"
 weight = 30
