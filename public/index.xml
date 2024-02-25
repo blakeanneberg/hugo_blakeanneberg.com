@@ -6,8 +6,15 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Feb 2024 15:51:54 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 16:47:29 -0700</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Howdy</title>
+      <link>/blog/howdy/</link>
+      <pubDate>Sun, 25 Feb 2024 16:47:29 -0700</pubDate>
+      <guid>/blog/howdy/</guid>
+      <description>I am putting all my old blog posts into Hugo&amp;hellip; this might take me some time.</description>
+    </item>
     <item>
       <title>About</title>
       <link>/about/</link>
