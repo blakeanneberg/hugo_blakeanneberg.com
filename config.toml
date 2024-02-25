@@ -1,3 +1,17 @@
 baseURL = 'http://blakeanneberg.com/'
 languageCode = 'en-us'
 title = 'BlakeAnneberg.com'
+
+
+[params.homeInfoParams]
+Title = "Hi there wave"
+Content = "Can be Info, links, about..."
+
+[[params.socialIcons]]
+name = "<platform>"
+url = "<link>"
+
+[[params.socialIcons]]
+name = "<platform 2>"
+url = "<link2>"
+
