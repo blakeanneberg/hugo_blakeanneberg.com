@@ -7,5 +7,5 @@ I am putting all my old blog posts into Hugo... this might take me some time.
 
 
 I like this view:
-[Shonan Beach FM] (/content/images/shonan.png "Shonan Beach view of Mt Fuji")
+[Shonan Beach FM](/content/images/shonan.png "Shonan Beach view of Mt Fuji")
 
