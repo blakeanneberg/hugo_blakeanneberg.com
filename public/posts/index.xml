@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on BlakeAnneberg.com</title>
     <link>https://blakeanneberg.com/posts/</link>
@@ -13,7 +13,8 @@
       <link>https://blakeanneberg.com/posts/howdy/</link>
       <pubDate>Sun, 25 Feb 2024 16:47:29 -0700</pubDate>
       <guid>https://blakeanneberg.com/posts/howdy/</guid>
-      <description>I am putting all my old blog posts into Hugo&amp;hellip; this might take me some time.&#xA;I like this view: </description>
+      <description>I am putting all my old blog posts into Hugo&amp;hellip; this might take me some time.
+I like this view: </description>
     </item>
   </channel>
 </rss>

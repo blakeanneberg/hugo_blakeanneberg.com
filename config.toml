@@ -1,4 +1,7 @@
-
+baseURL = 'https://blakeanneberg.com/'
+languageCode = 'en-us'
+title = 'BlakeAnneberg.com'
+ 
 theme = 'PaperMod'
 paginate = 5
 enableEmoji = true
@@ -45,6 +48,7 @@ weight = 20
 
 
 [params]
+subtitle = 'BlakeAnneberg.com'
 ShowReadingTime = true
 displayFullLangName = true
 ShowPostNavLinks = true
@@ -74,4 +78,3 @@ ShowToc = true
   name = "tableau"
   title = "See my projects on Tableau"
   url = "https://public.tableau.com/app/profile/blake.a6866/vizzes"
-
