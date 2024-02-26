@@ -12,7 +12,7 @@ mainsections = [ "posts", "papermod" ]
 identifier = "about.md"
 name = "About"
 url = "/about/"
-weight = 20
+weight = 10
 
 [[menu.main]]
 identifier = "archives.md"
@@ -38,13 +38,13 @@ weight = 30
 identifier = "categories"
 name = "categories"
 url = "/categories/"
-weight = 10
+weight = 40
 
 [[menu.main]]
 identifier = "tags"
 name = "tags"
 url = "/tags/"
-weight = 20
+weight = 40
 
 
 [params]
@@ -62,7 +62,8 @@ ShowToc = true
   [params.homeInfoParams]
   Title = "Welcome"
   Content = """
-👋 Learning Hugo so be patient! 
+👋 Documenting what I learn and thoughts on what I might learn next.  
+
 """
 
   [[params.socialIcons]]
