@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://blakeanneberg.com/</loc>
     <lastmod>2024-02-25T16:47:29-07:00</lastmod>
   </url><url>
-    <loc>/posts/howdy/</loc>
+    <loc>https://blakeanneberg.com/posts/howdy/</loc>
     <lastmod>2024-02-25T16:47:29-07:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://blakeanneberg.com/posts/</loc>
     <lastmod>2024-02-25T16:47:29-07:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://blakeanneberg.com/about/</loc>
     <lastmod>2024-02-25T15:51:54-07:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://blakeanneberg.com/archives/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://blakeanneberg.com/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://blakeanneberg.com/tags/</loc>
   </url>
 </urlset>
