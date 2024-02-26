@@ -1,4 +1,7 @@
 theme = 'PaperMod'
+paginate = 5
+enableEmoji = true
+mainsections = [ "posts", "papermod" ]
 
 
 [[menu.main]]
@@ -20,7 +23,6 @@ url = "https://www.cooriehome.com/"
 weight = 30
 
 
-
 [[menu.main]]
 identifier = "categories"
 name = "categories"
@@ -33,4 +35,31 @@ name = "tags"
 url = "/tags/"
 weight = 20
 
+
+[params]
+ShowReadingTime = true
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = true
+ShowAllPagesInArchive = true
+ShowPageNums = true
+ShowToc = true
+
+  [params.homeInfoParams]
+  Title = "Welcome"
+  Content = """
+👋 Learning Hugo so be patient! 
+"""
+
+  [[params.socialIcons]]
+  name = "github"
+  title = "View my projects on Github"
+  url = "https://github.com/blakeanneberg"
+
+  [[params.socialIcons]]
+  name = "tableau"
+  title = "See my projects on Tableau"
+  url = "https://public.tableau.com/app/profile/blake.a6866/vizzes"
 
