@@ -11,6 +11,12 @@ name = "About"
 url = "/about/"
 weight = 20
 
+[[menu.main]]
+identifier = "archive.md"
+name = "Archive"
+url = "/archive/"
+weight = 20
+
 
 [[menu.main]]
 identifier = "InTheHyperloop"
