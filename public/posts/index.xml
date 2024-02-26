@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
+    <title>Posts on </title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 25 Feb 2024 16:47:29 -0700</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Howdy</title>
       <link>/posts/howdy/</link>
@@ -15,14 +15,6 @@
       <guid>/posts/howdy/</guid>
       <description>I am putting all my old blog posts into Hugo&amp;hellip; this might take me some time.
 I like this view: [Shonan Beach FM] (/content/images/shonan.png &amp;ldquo;Shonan Beach view of Mt Fuji&amp;rdquo;)</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Sun, 25 Feb 2024 15:51:54 -0700</pubDate>
-      <guid>/about/</guid>
-      <description>Learning to Code. I am using tools like Neovim, Coursera courses and github to develop this website. I have been learning code for many years now, and it has been helpfull in my various jobs and projects. My goal is to have a hyperloop inspired landing, where the visitor will see a map of moving hyperloop pods.
-Random fact: I love Civilization 1.</description>
     </item>
   </channel>
 </rss>

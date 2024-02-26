@@ -3,15 +3,3 @@ languageCode = 'en-us'
 title = 'BlakeAnneberg.com'
 
 
-[params.homeInfoParams]
-Title = "Hi there wave"
-Content = "Can be Info, links, about..."
-
-[[params.socialIcons]]
-name = "github"
-url = "https://github.com/blakeanneberg"
-
-[[params.socialIcons]]
-name = "youtube"
-url = "https://www.youtube.com/channel/blakeanneberg"
-

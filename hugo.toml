@@ -59,6 +59,10 @@ ShowToc = true
   url = "https://github.com/blakeanneberg"
 
   [[params.socialIcons]]
+  name = "youtube"
+  url = "https://www.youtube.com/channel/blakeanneberg"
+
+  [[params.socialIcons]]
   name = "tableau"
   title = "See my projects on Tableau"
   url = "https://public.tableau.com/app/profile/blake.a6866/vizzes"
