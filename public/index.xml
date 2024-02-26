@@ -24,5 +24,52 @@ Random fact: I love Civilization 1.</description>
       <description>I am putting all my old blog posts into Hugo&amp;hellip; this might take me some time.
 I like this view: </description>
     </item>
+    <item>
+      <title>Data_Vis,_Hyperloop_and_Bumper_Stickers</title>
+      <link>https://blakeanneberg.com/posts/data_vis_hyperloop_and_bumper_stickers/</link>
+      <pubDate>Sat, 16 Dec 2023 21:27:32 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/data_vis_hyperloop_and_bumper_stickers/</guid>
+      <description>Learning data vis in Tableau right now. I wish I had learned this earlier in my work as I think I could have used it.
+I still keep thinking of my goal to make some kind of website or game where you can see hyperloop pods going around their tracks. When I am learning Tableau I am using data from the Global Hyperloop Challenge where I pitched &amp;lsquo;Colorado Hyperloop.&amp;rsquo;
+After my support of something very futuristic, I am wanting to create merch and bumper stickers that promote a Front Range Passenger Rail in Colorado.</description>
+    </item>
+    <item>
+      <title>Work_goals</title>
+      <link>https://blakeanneberg.com/posts/work_goals/</link>
+      <pubDate>Wed, 13 Dec 2023 21:25:45 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/work_goals/</guid>
+      <description>I have three short term work goals that I either do at night or work on when I dont have other things to do at work:
+Study the Data Analystics course by Google and copy down the job post I read about it to then get those skills. Create the project management template for initial conversations with stakeholders about projects with Hospitality IT. Figure out a project with Sustainability staff that would augment my development of a leadership skill.</description>
+    </item>
+    <item>
+      <title>Learning_goals</title>
+      <link>https://blakeanneberg.com/posts/learning_goals/</link>
+      <pubDate>Mon, 27 Nov 2023 21:20:04 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/learning_goals/</guid>
+      <description>I think my goals for the Data Analyst courses is just to make more templates. When people have ideas, or I have an idea, I need a way to show how those ideas, goals or projects can come together visually so everyone can see risks, goals and the end result. Stopping and thinking about projects is always a good idea. So I hope these templates can help me at work better.</description>
+    </item>
+    <item>
+      <title>Self_study_job</title>
+      <link>https://blakeanneberg.com/posts/self_study_job/</link>
+      <pubDate>Thu, 12 Oct 2023 21:24:17 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/self_study_job/</guid>
+      <description>In writing this blog, I cant stop thinking about all the past jobs and personal study and sacrifice it took to get here. I see my Github history and I can see the first commits were Oct 31, 2011. I had no idea what I was doing, but I was in a bootcamp trying to will myself to learn.
+I think the main lesson is that its taken me 12 years to get where I am now.</description>
+    </item>
+    <item>
+      <title>Learn_to_break_code</title>
+      <link>https://blakeanneberg.com/posts/learn_to_break_code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blakeanneberg.com/posts/learn_to_break_code/</guid>
+      <description>I have spent so many years trying to learn to code, so I am going to try and learn by not having any fear on getting a project, then write code or get code from the example, then try and break it. I should not be taking notes anymore, but rather get muscle memory in interacting with code more. So will I take hints on writing code? Yes. But I will try and break it more often to see how it works.</description>
+    </item>
+    <item>
+      <title>Notetaking_workflow</title>
+      <link>https://blakeanneberg.com/posts/notetaking_workflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blakeanneberg.com/posts/notetaking_workflow/</guid>
+      <description>Below is a half written vlog post on how it has taken me 5 years to hone in on how to take notes from online courses as well as learn tools and technology.
+1. I was working for a domain name company and one of the senior engineers recommended that I learn Vim.This got me down the rabbit hole of learning how to interact with a computer applications only by using the keyboard.</description>
+    </item>
   </channel>
 </rss>
