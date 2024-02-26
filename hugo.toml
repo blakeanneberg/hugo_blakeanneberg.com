@@ -15,9 +15,9 @@ url = "/about/"
 weight = 20
 
 [[menu.main]]
-identifier = "archive.md"
-name = "Archive"
-url = "/archive/"
+identifier = "archives.md"
+name = "Archives"
+url = "/archives/"
 weight = 20
 
 
