@@ -6,15 +6,51 @@
     <description>Recent content in Posts on BlakeAnneberg.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Feb 2024 11:47:29 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 22:07:34 -0700</lastBuildDate>
     <atom:link href="https://blakeanneberg.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Howdy</title>
-      <link>https://blakeanneberg.com/posts/howdy/</link>
-      <pubDate>Sun, 25 Feb 2024 11:47:29 -0700</pubDate>
-      <guid>https://blakeanneberg.com/posts/howdy/</guid>
-      <description>I am putting all my old blog posts into Hugo&amp;hellip; this might take me some time.
-I like this view: </description>
+      <title>Went_with_HUGO</title>
+      <link>https://blakeanneberg.com/posts/went_with_hugo/</link>
+      <pubDate>Sun, 25 Feb 2024 22:07:34 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/went_with_hugo/</guid>
+      <description>I am putting all my old blog posts into Hugo… it took a while as I basically have never done a large hugo site.
+I think I understand the structure of HUGO.
+I like it uses Markdown.
+But I wish I had more control over the theme.</description>
+    </item>
+    <item>
+      <title>Using_i3_on_a_old_laptop</title>
+      <link>https://blakeanneberg.com/posts/using_i3_on_a_old_laptop/</link>
+      <pubDate>Thu, 15 Feb 2024 22:04:38 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/using_i3_on_a_old_laptop/</guid>
+      <description>On a old Dell laptop I have Fedora installed and usually I use GNOME but I also have i3.
+I love i3. I wish I had it on another computer as I love just having three workspaces and just need something that is fast. They are usually Firefox, Terminal/Alacrity with Neovim/SSH/TMUX and the third workspace is a mix of terminal and browser. I really enjoy i3 and wish I had it on my work computer as its windows and it gets in the way of me being productive.</description>
+    </item>
+    <item>
+      <title>Trying_out_shells</title>
+      <link>https://blakeanneberg.com/posts/trying_out_shells/</link>
+      <pubDate>Sun, 11 Feb 2024 22:03:32 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/trying_out_shells/</guid>
+      <description>Currently using Alacritty but did try out Warp, but it had to much unused space. I usually use iTerm as my regular Terminal app broke with my NeoVim font settings.
+Want to have a low power terminal, and be able to try something new. So far I am liking Warp.
+With Warp, I also found that I didnt need all the features as all you really need to know is TMUX.</description>
+    </item>
+    <item>
+      <title>Getting_back_my_online_study</title>
+      <link>https://blakeanneberg.com/posts/getting_back_my_online_study/</link>
+      <pubDate>Sat, 10 Feb 2024 22:02:18 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/getting_back_my_online_study/</guid>
+      <description>Been busy with work so that in the evening I don&amp;rsquo;t have energy to study my online courses. I am finally getting back to online learning after taking about 7 days off.
+Doing the SQL and Tableau courses are shorter so I really need to study hard to finish them both.
+I go back to Python on Boot.Dev to keep my coding knowledge stills fresh but I do miss Go on Coursera, as I want to make my website with Go.</description>
+    </item>
+    <item>
+      <title>Learning&#43;Hobbies&#43;Time</title>
+      <link>https://blakeanneberg.com/posts/learning&#43;hobbies&#43;time/</link>
+      <pubDate>Sat, 03 Feb 2024 22:01:01 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/learning&#43;hobbies&#43;time/</guid>
+      <description>I think having a part time job would be best way to make time for learning and side projects. I have never had a part time job, so that will be weird. Finding motivation right now is kinda hard with a fill like job that has FTO as i cant control things breaking or projects.
+I was thinking of barista but i wouldn&amp;rsquo;t mind having a outdoor job working with plants or some kind sustainable construction job.</description>
     </item>
     <item>
       <title>Hyperloop_Twitter</title>
@@ -157,6 +193,14 @@ I think the main lesson is that its taken me 12 years to get where I am now.</de
       <guid>https://blakeanneberg.com/posts/notetaking_workflow/</guid>
       <description>Below is a half written vlog post on how it has taken me 5 years to hone in on how to take notes from online courses as well as learn tools and technology.
 1. I was working for a domain name company and one of the senior engineers recommended that I learn Vim.This got me down the rabbit hole of learning how to interact with a computer applications only by using the keyboard.</description>
+    </item>
+    <item>
+      <title>Using_Go_or_Python_for_this_blog</title>
+      <link>https://blakeanneberg.com/posts/using_go_or_python_for_this_blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blakeanneberg.com/posts/using_go_or_python_for_this_blog/</guid>
+      <description>I have been wanting to use what I am learning to make this blog better. I was thinking I would use Python from my boot.dev course and then learn Django. However, I am now leaning to Hugo and take a risk as I do not know Go.
+I am still trying to figure out a way to learn and make time during the day to do online courses and projects/tasks like upgrade this blog.</description>
     </item>
   </channel>
 </rss>
