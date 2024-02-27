@@ -3,9 +3,22 @@ title: "About"
 date: 2024-02-25T15:51:54-07:00
 ---
 # Learning to Code.
+--- 
 
-I am using tools like Neovim, Coursera courses and github to develop this website.
-I have been learning code for many years now, and it has been helpfull in my various jobs and projects.
-My goal is to have a hyperloop inspired landing, where the visitor will see a map of moving hyperloop pods.
+## 🌱 Hobbies: 
+Swim/Bike/Run, gardening, space, sustainable strawbale construction 
 
-Random fact: I love Civilization 1.
+## 🧑💻 I’m currently learning alot about:
+- nvim using Kickstart
+- TMUX and SSH
+- Python/django, Go and Data Analitics
+
+## 💞️ Tech Goals:
+I’m looking to collaborate on creating a real time interactive webpage/app that can showcase a train/hyperloop system and journey for cargo and passangers.
+Build an API and learn how to monitise APIs.
+Project: Rasberry PI to become a air monotoring station with Python.
+Creating a blog with either django or Go about my coding journey.
+
+## 🗺 Random fact: 
+I love Civilization 1.
+
