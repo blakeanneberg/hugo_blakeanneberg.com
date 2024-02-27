@@ -34,14 +34,6 @@ I like it uses Markdown.
 But I wish I had more control over the theme.</description>
     </item>
     <item>
-      <title>About</title>
-      <link>https://blakeanneberg.com/about/</link>
-      <pubDate>Sun, 25 Feb 2024 15:51:54 -0700</pubDate>
-      <guid>https://blakeanneberg.com/about/</guid>
-      <description>Learning to Code. 🌱 Hobbies: Swim/Bike/Run, gardening, space, sustainable strawbale construction
-🧑💻 I’m currently learning alot about: nvim using Kickstart TMUX and SSH Python/django, Go and Data Analitics 💞️ Tech Goals: I’m looking to collaborate on creating a real time interactive webpage/app that can showcase a train/hyperloop system and journey for cargo and passangers. Build an API and learn how to monitise APIs. Project: Rasberry PI to become a air monotoring station with Python.</description>
-    </item>
-    <item>
       <title>Using_i3_on_a_old_laptop</title>
       <link>https://blakeanneberg.com/posts/using_i3_on_a_old_laptop/</link>
       <pubDate>Thu, 15 Feb 2024 22:04:38 -0700</pubDate>
