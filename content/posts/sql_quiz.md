@@ -9,7 +9,7 @@ However, writing these queries is getting me excited when I eventually learn how
 Another thing I cant wait to do is to learn how to write HTMX.Eventually i want to write Go and HTMX and SQLite for all the things.
 
 Finally, when I sat down to finally study SQL, I went down a rabbit hole and watched videos from the Primagine and wanted to re-learn how to draw ASCII art with a tool called Boxes. 
-
+```
 +------------------------------+
 | "Pursue making how you feel  |
 | align with reality           |
@@ -18,7 +18,7 @@ Finally, when I sat down to finally study SQL, I went down a rabbit hole and wat
 | be aligned to how you feel." |
 | -ThePrimeagen                |
 +------------------------------+
-
+```
 So, after trying to get the above quote put into a box, I didnt understnad the instructions, i finally figured it out. 
 
 1. Install the app boxes on your linux computer
