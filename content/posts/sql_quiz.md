@@ -19,11 +19,13 @@ Finally, when I sat down to finally study SQL, I went down a rabbit hole and wat
 | -ThePrimeagen                |
 +------------------------------+
 ```
-So, after trying to get the above quote put into a box, I didnt understnad the instructions, i finally figured it out. 
+I knew I had installed a application called Boxes that would draw out artwork for text, but I didnt know how to put it in Neovim. So I Googled around and eventually stumbled accross instructions wich were complete, but not workable if you already had text in a file. I finally figured it out after re-reading and thinking a bit outside the box: 
 
-1. Install the app boxes on your linux computer
-2. open vim or neovim
+1. Install the app [Boxes](https://boxes.thomasjensen.com/) on your Linux computer
+2. Open vim or neovim
 3. write out your text or quote. 
-4. hit `esc`
-5. in command mode write the line number example is line 10 where the quote starts: `12!!boxes -d stone` or if you have multiple lines, visually select with `v` and then `:!!boxes -d stone`
+4. Hit `esc`
+5. Go into command mode and write the line number, example is line 12 where the quote starts: `12!!boxes -d stone` or if you have multiple lines, visually select with `v` and then `:!!boxes -d stone`
 6. press enter to get it to print the box out.
+
+So even though I didnt work much on SQL homework... I learned a bit more about Vim and way that can make my markdown notes spark job a bit more. 
