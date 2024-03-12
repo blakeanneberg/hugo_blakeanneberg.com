@@ -11,6 +11,8 @@ I had spent years trying to learn to code on TeamTreeHouse. Weekends trying to l
 
 After becoming more demoralized, I started reach out to coworkers who I looked up to and ask them what they were learning. I discovered certifications like A+, and I soon realized I could also move into other certs like Network+. 
 
+Ironically, it was asking another coworker, a database admin, about what editor he used, when I first learned about VIM. I owe him alot for telling me about VIM.
+
 I felt more at home with certifications, rather than the nebulous goal of a skill like "JavaScript."
 
 So I printed up materials from the A+ cert to learn. It soon became apparent that I was printing up a entire forest and that my actual knowledge was very small. 
