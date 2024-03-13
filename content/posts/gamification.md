@@ -8,7 +8,7 @@ Well, I have two big things coming up which will take alot of time.
 1. Colorado Rail Game
 2. Network+
 
-Both are huge goals and after reviewing all my ideas for the Rail Game and re-visiting the TestOut coursework for Network+ I feel like I am prepaired to tackle them. 
+Both are huge goals and after reviewing all my ideas for the Rail Game and re-visiting the TestOut coursework for Network+ I feel like I am prepared to tackle them. 
 
 For the game, there is so much that I can draw upon from recent events and historical events, that I feel like the story will come together pretty easily. I just need to sit down and focus on the task. 
 
