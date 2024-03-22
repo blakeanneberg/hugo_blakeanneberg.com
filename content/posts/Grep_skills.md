@@ -11,8 +11,8 @@ So I Googled: `find the file that has a word in it in command line`
 
 And then I found: `grep "hello" *` 
 
-This was perfect, so I typed out `grep "ascii" *` and immediately found the file name out of all the other files in the blog post folder. It was probably the first time I have every been in deed of `grep`.
+This was perfect, so I typed out `grep "ascii" *` and immediately found the file name out of all the other files in the blog post folder. It was probably the first time I have every been in need of `grep`.
 
-So I am glad I Am learning Networking from another online platform. So glad I am using TestOut for the more hands on learning but Cisco's Skills For All platform for easy to understand instruction.
+So I am glad I am learning Networking from another online platform. So glad I am using TestOut for the more hands on learning but Cisco's Skills For All platform for easy to understand instruction.
 
 
