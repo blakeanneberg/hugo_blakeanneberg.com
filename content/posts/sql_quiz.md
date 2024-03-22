@@ -25,7 +25,7 @@ I knew I had installed a application called Boxes that would draw out artwork fo
 2. Open vim or neovim
 3. write out your text or quote. 
 4. Hit `esc`
-5. Go into command mode and write the line number, example is line 12 where the quote starts: `12!!boxes -d stone` or if you have multiple lines, visually select with `v` and then `:!!boxes -d stone`
+5. Go into command mode and write the line number, example is line 12 where the quote starts: `12!boxes -d stone` or if you have multiple lines, visually select with `v` and then `:!boxes -d stone`
 6. press enter to get it to print the box out.
 
 So even though I didnt work much on SQL homework... I learned a bit more about Vim and way that can make my markdown notes spark job a bit more. 
