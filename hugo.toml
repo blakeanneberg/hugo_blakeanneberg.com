@@ -39,18 +39,6 @@ name = "BSAConsulting.LLC"
 url = "https://www.BSAConsulting.LLC/"
 weight = 30
 
-[[menu.main]]
-identifier = "categories"
-name = "categories"
-url = "/categories/"
-weight = 40
-
-[[menu.main]]
-identifier = "tags"
-name = "tags"
-url = "/tags/"
-weight = 40
-
 
 [params]
 subtitle = 'BlakeAnneberg.com'
