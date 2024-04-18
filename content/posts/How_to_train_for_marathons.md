@@ -5,7 +5,7 @@ date: 2024-04-07T21:11:25-06:00
 
 I forgot how to train for a marathons, so I looked up my Strava history.
 
-Just like I forgot how to replace all occurrences of _ on a line or document in vim... so I just looked it up and its `:s/str1/str2/g` with the `g` option if you want to replace all instances globally.
+Just like I forgot how to replace all occurrences of _ on a line or document in vim... so I just looked it up and its `:%s/str1/str2/g` with the `g` option if you want to replace all instances globally.
 
 Back in the day when I did not know how to run long distances I used a book *The Non-Runner's Marathon Trainer* by David A. Whitsett. It tells basically how to run a marathon. I like the training plan of:
 | Monday    | Wednesday | Friday | Saturday |
