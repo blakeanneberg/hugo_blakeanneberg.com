@@ -15,7 +15,7 @@ I normally write about the big goals I have but some smaller goals are:
 - Attend more open air events this summer.
 - Learn how to play golf, tennis, pickle ball. 
 - Visit more CO cities. 
-- Buy land... or at least find out what small plots are aviable.
+- Buy land... or at least find out what small plots are available.
 - Run up the mountain more... and basically run 4 times a week. 
 - Do more yoga or other workout classes. 
 - Do more creative writing class.
@@ -25,6 +25,6 @@ I normally write about the big goals I have but some smaller goals are:
 
 Otherwise I really really really like summer. Basically, I want to live part time in city and mountains. 
 
-Also in Boot.dev, I am using the AI more so I at least enjoy learning how to code and not get so frusterated. 
+Also in Boot.dev, I am using the AI more so I at least enjoy learning how to code and not get so frustrated. 
 
-I am liking my Go book to learn from... makes me at least feel like I am working and progressing though a book even thought I might be learning as much as just doing it by my self. 
+I am liking my Go book to learn from... Makes me at least feel like I am working and progressing though a book even thought I might be learning as much as just doing it by my self. 
