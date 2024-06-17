@@ -7,7 +7,7 @@ I normally write about the big goals I have but some smaller goals are:
 
 - Learn how to do pull ups.
 - Read more about stoic philosophy in my new book.
-- Bike out to Parker and go to Fika. 
+- Bike out to Parker and go to Fidd ka. 
 - Start seeds.
 - Sign up for marathons next year.
 - Go see a Starship launch
