@@ -6,8 +6,18 @@
     <description>Recent content on BlakeAnneberg.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Aug 2024 19:42:25 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 21:50:43 -0600</lastBuildDate>
     <atom:link href="https://blakeanneberg.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://blakeanneberg.com/about/</link>
+      <pubDate>Wed, 07 Aug 2024 21:50:43 -0600</pubDate>
+      <guid>https://blakeanneberg.com/about/</guid>
+      <description>👋 Sharing what I learn.
+🌱 Hobbies: Swim/Bike/Run, sustainable strawbale construction, Colorado trains.
+🧑💻 I’m currently learning alot about: nvim using Kickstart as my text editor and TMUX to manage my SSH session. The Online courses I am working on are Python/django, Go and Data Analitics, SQL for Data Science and TestOut&amp;rsquo;s course for Network+ as well as courses for the CCNA.
+💞️💻 Tech Goals: I’m looking to collaborate on creating a real time interactive webpage/app that can showcase a train/hyperloop system and journey for cargo and passangers.</description>
+    </item>
     <item>
       <title>Homelab for learning</title>
       <link>https://blakeanneberg.com/posts/homelab_for_learning/</link>
