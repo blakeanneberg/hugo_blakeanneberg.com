@@ -7,9 +7,9 @@ ShowToc: = true
 👋 Sharing what I learn.  
 
 🌱 Hobbies: 
-    - Swim/Bike/Run
-    - Sustainable strawbale construction
-    - Getting Colorado passenger trains. 
+- Swim/Bike/Run
+- Sustainable strawbale construction
+- Getting Colorado passenger trains built. 
 
 🧑💻 Learning:
 - NVIM using Kickstart as my text editor and TMUX to manage my SSH session.
