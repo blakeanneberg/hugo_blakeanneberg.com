@@ -7,14 +7,19 @@ ShowToc: = true
 👋 Sharing what I learn.  
 
 🌱 Hobbies: 
-Swim/Bike/Run, sustainable strawbale construction, Colorado trains. 
+    - Swim/Bike/Run
+    - Sustainable strawbale construction
+    - Getting Colorado passenger trains. 
 
-🧑💻 I’m currently learning alot about: nvim using Kickstart as my text editor and TMUX to manage my SSH session. The Online courses I am working on are Python/django, Go and Data Analitics, SQL for Data Science and TestOut's course for Network+ as well as courses for the CCNA.
+🧑💻 Learning:
+- NVIM using Kickstart as my text editor and TMUX to manage my SSH session.
+- The Online courses I am working on are Python/django, Go and Data Analytics, SQL for Data Science and TestOut's course for Network+ as well as courses for the CCNA.
 
 💞️💻  Tech Goals:
-I’m looking to collaborate on creating a real time interactive webpage/app that can showcase a train/hyperloop system and journey for cargo and passangers.
-Build an API and learn how to monitise APIs.
-Project: Rasberry PI to become an air monotoring station with Python.
-Homelab: Practice for the CCNA. 
+- I’m looking to collaborate on creating a real time interactive webpage/app that can showcase a train/hyperloop system and journey for cargo and passengers.
+- Build an API and learn how to monetise APIs.
+- Project: Raspberry PI to become an air monitoring station with Python.
+- Homelab: Practice for the CCNA. 
 
-🗺  Random fact: I love Civilization 1.
+🗺  Random fact: 
+- I love the video game Civilization 1.
