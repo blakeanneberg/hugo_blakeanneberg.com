@@ -8,10 +8,19 @@
     <loc>https://blakeanneberg.com/</loc>
     <lastmod>2024-08-07T21:50:43-06:00</lastmod>
   </url><url>
+    <loc>https://blakeanneberg.com/tags/ccna/</loc>
+    <lastmod>2024-08-07T19:42:25-06:00</lastmod>
+  </url><url>
+    <loc>https://blakeanneberg.com/tags/homelab/</loc>
+    <lastmod>2024-08-07T19:42:25-06:00</lastmod>
+  </url><url>
     <loc>https://blakeanneberg.com/posts/homelab_for_learning/</loc>
     <lastmod>2024-08-07T19:42:25-06:00</lastmod>
   </url><url>
     <loc>https://blakeanneberg.com/posts/</loc>
+    <lastmod>2024-08-07T19:42:25-06:00</lastmod>
+  </url><url>
+    <loc>https://blakeanneberg.com/tags/</loc>
     <lastmod>2024-08-07T19:42:25-06:00</lastmod>
   </url><url>
     <loc>https://blakeanneberg.com/posts/learned_bash_history/</loc>
@@ -192,8 +201,6 @@
     <loc>https://blakeanneberg.com/posts/learn_to_break_code/</loc>
   </url><url>
     <loc>https://blakeanneberg.com/posts/notetaking_workflow/</loc>
-  </url><url>
-    <loc>https://blakeanneberg.com/tags/</loc>
   </url><url>
     <loc>https://blakeanneberg.com/posts/using_go_or_python_for_this_blog/</loc>
   </url>

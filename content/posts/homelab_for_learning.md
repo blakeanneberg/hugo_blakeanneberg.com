@@ -1,6 +1,9 @@
 ---
 title: "Homelab for learning"
 date: 2024-08-07T19:42:25-06:00
+tags:  
+    - CCNA
+    - homelab
 ---
 
 I finally have enough old equipment to start a homelab. Some of it includes

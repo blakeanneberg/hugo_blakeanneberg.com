@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Homelab on BlakeAnneberg.com</title>
+    <link>https://blakeanneberg.com/tags/homelab/</link>
+    <description>Recent content in Homelab on BlakeAnneberg.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Aug 2024 19:42:25 -0600</lastBuildDate>
+    <atom:link href="https://blakeanneberg.com/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homelab for learning</title>
+      <link>https://blakeanneberg.com/posts/homelab_for_learning/</link>
+      <pubDate>Wed, 07 Aug 2024 19:42:25 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/homelab_for_learning/</guid>
+      <description>I finally have enough old equipment to start a homelab. Some of it includes
+Old WAPs Network switches Cloudcore router Firewall Fiber and SFPs Old micro desktops Possible old working server What I have for plans is to create this homelab and then somehow set up a way to remotely log into it. But I really have no idea how to do this right now.
+Also I don&amp;rsquo;t know where it should be placed&amp;hellip; and where a good spot would be for it to live.</description>
+    </item>
+  </channel>
+</rss>
