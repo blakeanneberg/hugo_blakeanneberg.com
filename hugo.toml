@@ -55,19 +55,20 @@ ShowToc = true
   [params.homeInfoParams]
   Title = "Welcome"
   Content = """
-👋 Documenting what I learn and thoughts on what I might learn next.  
+👋 Sharing what I learn.  
 
 🌱 Hobbies: 
-Swim/Bike/Run, gardening, space, sustainable strawbale construction 
+Swim/Bike/Run, sustainable strawbale construction, Colorado trains. 
 
-🧑💻 I’m currently learning alot about: nvim using Kickstart as my text editor and TMUX to manage my SSH session. The Online courses I am working on are Python/django, Go and Data Analitics, SQL for Data Science and TestOut's course for Network+ cert.
+🧑💻 I’m currently learning alot about: nvim using Kickstart as my text editor and TMUX to manage my SSH session. The Online courses I am working on are Python/django, Go and Data Analitics, SQL for Data Science and TestOut's course for Network+ as well as courses for the CCNA.
 
 💞️💻  Tech Goals:
 I’m looking to collaborate on creating a real time interactive webpage/app that can showcase a train/hyperloop system and journey for cargo and passangers.
 Build an API and learn how to monitise APIs.
-Project: Rasberry PI to become a air monotoring station with Python.
+Project: Rasberry PI to become an air monotoring station with Python.
+Homelab: Practice for the CCNA. 
 
-🗺 Random fact: I love Civilization 1.
+🗺  Random fact: I love Civilization 1.
 """
 
   [[params.socialIcons]]

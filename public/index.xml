@@ -6,8 +6,312 @@
     <description>Recent content on BlakeAnneberg.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Mar 2024 10:09:03 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 19:42:25 -0600</lastBuildDate>
     <atom:link href="https://blakeanneberg.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homelab for learning</title>
+      <link>https://blakeanneberg.com/posts/homelab_for_learning/</link>
+      <pubDate>Wed, 07 Aug 2024 19:42:25 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/homelab_for_learning/</guid>
+      <description>I finally have enough old equipment to start a homelab. Some of it includes
+Old WAPs Network switches Cloudcore router Firewall Fiber and SFPs Old micro desktops Possible old working server What I have for plans is to create this homelab and then somehow set up a way to remotely log into it. But I really have no idea how to do this right now.
+Also I don&amp;rsquo;t know where it should be placed&amp;hellip; and where a good spot would be for it to live.</description>
+    </item>
+    <item>
+      <title>Learn Search and Select in Bash History</title>
+      <link>https://blakeanneberg.com/posts/learned_bash_history/</link>
+      <pubDate>Wed, 31 Jul 2024 19:56:03 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/learned_bash_history/</guid>
+      <description>I finally learned how to write out a particular line in history.
+I can never remember the IP address o log into a VPS via SSH. So I have to rely on typing history and then finding where I had last typed it and then copy and pasting the input into the new bash line.
+This all is a pain. So I finally Googled something like search bash history and select input and found a forum post where the person said CMD + R.</description>
+    </item>
+    <item>
+      <title>Slow Stream</title>
+      <link>https://blakeanneberg.com/posts/slow_stream/</link>
+      <pubDate>Mon, 29 Jul 2024 14:11:02 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/slow_stream/</guid>
+      <description>I really like slow moving streams. I was walking next to Gore Creek and watched people on inter tubes float down the river. It was so hot and I wish I could sit in a inter tube.
+But also I like the way they sound. Quiet stream noises make me want to go to sleep.
+So one project I really want to do as I have been thinking about it for so long is taking my camera and lav audio mics up on the mountain in quiet areas and recording stream and wind sounds.</description>
+    </item>
+    <item>
+      <title>Planting Trees</title>
+      <link>https://blakeanneberg.com/posts/planting_trees/</link>
+      <pubDate>Sun, 28 Jul 2024 15:10:22 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/planting_trees/</guid>
+      <description>I watched a YouTube about how to plat trees for growing a forest. there were two methods. The regular approach is to just plant a some trees without much thought. The second thought is to use a method called the Miyawaki method.
+This is to first improve the soil if needed. Then plant native trees and plants and as many different ones as possibly, and as closely together so there is more competition between the young trees.</description>
+    </item>
+    <item>
+      <title>Video Games and Scotland</title>
+      <link>https://blakeanneberg.com/posts/video_games_and_scotland/</link>
+      <pubDate>Tue, 23 Jul 2024 21:51:22 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/video_games_and_scotland/</guid>
+      <description>I have really enjoyed playing one video game on the steam deck&amp;hellip; and its Hogwarts Legacy.
+Not only is it fun to run around the world of Harry Potter, and be filled with nostalgia, but also it reminds me of Scotland and Edinburgh.
+When I lived there it was so cold at night and dark&amp;hellip; but there were bits of it being brilliant.
+Some things I miss are pubs, running around the city and how cozy things were.</description>
+    </item>
+    <item>
+      <title>Straw camp</title>
+      <link>https://blakeanneberg.com/posts/straw_camp/</link>
+      <pubDate>Mon, 22 Jul 2024 21:42:45 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/straw_camp/</guid>
+      <description>Well I survived. Glad I did not get injured and glad I signed up.
+Camping in the car for 7 days was not as fun by the end, but I really did enjoy it.
+Some things I learned:
+Wear PPE, and buy the cool helmet as its better than getting a hammer on your head. Bring a solar panel as you never know if you will need to charge up a phone more.</description>
+    </item>
+    <item>
+      <title>Video Game Music</title>
+      <link>https://blakeanneberg.com/posts/video_game_music/</link>
+      <pubDate>Thu, 11 Jul 2024 22:26:49 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/video_game_music/</guid>
+      <description>I really like my video game music. Whether it was Civ 1 or 2 or later or Doom soundtrack or newer games, its just wonderful.
+I often listen to it when working out and I sometimes think people don&amp;rsquo;t often listen to this great music as they do not play any games.
+I also like listening to DR.DK/LYD and SR.SE and used to listen to BNN.FM and ShonanBeachFM.
+Otherwise I just love it and am so glad there are such great songs out there.</description>
+    </item>
+    <item>
+      <title>Straw next week</title>
+      <link>https://blakeanneberg.com/posts/straw_next_week/</link>
+      <pubDate>Wed, 10 Jul 2024 21:47:26 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/straw_next_week/</guid>
+      <description>I am really looking forward to a straw bale work camp next week where 30 or so volunteers will help fill in the insulation of between the frames with straw.
+I am just so happy that I signed up for this so long ago.
+I think I am more happy in that I am doing things I want to do and going after dreams and things that I want to go after.</description>
+    </item>
+    <item>
+      <title>Cross roads</title>
+      <link>https://blakeanneberg.com/posts/cross_roads/</link>
+      <pubDate>Sun, 07 Jul 2024 11:00:10 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/cross_roads/</guid>
+      <description>Well in getting back to study, I am now wondering whether to continue with Network+ or go with CCNA.
+Main reasons for this is that I feel the CCNA is a bit easier to learn. The study materials just make more sense.
+Also, I am not liking the CompTia Network Plus study materials but rather CCNA by Wendell Odom.
+A couple more cross roads are:
+Buy mountain bike or continue with road bike.</description>
+    </item>
+    <item>
+      <title>Professional development price</title>
+      <link>https://blakeanneberg.com/posts/professional_development_price/</link>
+      <pubDate>Fri, 05 Jul 2024 20:42:24 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/professional_development_price/</guid>
+      <description>I re-upped with Testout and paid for all their course cataloge. Not only is Network+ top course but ohers like Linux, Cyber, and Hybrid Server.
+I am glad I signed up even though if feels expensive.
+I am also glad to be writing this post on a steam deck. just need a better keyboard as the shift button is so small on the right.
+I should be sure to take the cert tests, but I am glad to be a life long learner.</description>
+    </item>
+    <item>
+      <title>Everyday habits</title>
+      <link>https://blakeanneberg.com/posts/everyday_habits/</link>
+      <pubDate>Tue, 25 Jun 2024 20:05:19 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/everyday_habits/</guid>
+      <description>Sitting on the poach and listening to Danish Radio&amp;rsquo;s classical music channel. I am thinking about white clouds in the sky and how the sun is setting and that I have not just looked up into the sky watched clouds move. I am really glad I purchased while in Heathrow the book on &amp;ldquo;The Daily Stoic&amp;rdquo; which has 365 lessons. I read alot of it on the plane and also coded alot of go on the plane and talked to someone who was a volunteer wild land firefighter.</description>
+    </item>
+    <item>
+      <title>Action items for game dev</title>
+      <link>https://blakeanneberg.com/posts/action_items_for_game_dev/</link>
+      <pubDate>Wed, 19 Jun 2024 07:20:05 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/action_items_for_game_dev/</guid>
+      <description>In making a game its good to have a active PM. She thought I would benefit from having a UX expert help in the discussion to give me action items:
+make a strait forward scenario that shows the game mechanic. Whether that is in sketches, frames, power points. describe in more detail the mini game. share free resources where to get images so we can create art. So now I have alot of homework to do, but I feel good as I understand the direction better.</description>
+    </item>
+    <item>
+      <title>Five week project</title>
+      <link>https://blakeanneberg.com/posts/five_week_project/</link>
+      <pubDate>Sun, 16 Jun 2024 19:44:23 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/five_week_project/</guid>
+      <description>I have not updated the blog due to a work project that has taken now 5 weeks.
+Some of the project management lessons I have learned:
+Scope out projects better&amp;hellip;. espically the fundamental truthes that the projects presume. Make sure you have enough people for projects. If initial people are not enough, then it will be a problem. If there is a problem. Stop and get attention to the situation. Other things I learned personally.</description>
+    </item>
+    <item>
+      <title>Other goals</title>
+      <link>https://blakeanneberg.com/posts/other_goals/</link>
+      <pubDate>Sun, 26 May 2024 15:41:15 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/other_goals/</guid>
+      <description>I normally write about the big goals I have but some smaller goals are:
+Learn how to do pull ups. Read more about stoic philosophy in my new book. Bike out to Parker and go to Fidd ka. Start seeds. Sign up for marathons next year. Go see a Starship launch Try and do more boot.dev and Head First Go book. Attend more open air events this summer. Learn how to play golf, tennis, pickle ball.</description>
+    </item>
+    <item>
+      <title>Post Vacation</title>
+      <link>https://blakeanneberg.com/posts/post_vacation/</link>
+      <pubDate>Fri, 17 May 2024 17:44:35 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/post_vacation/</guid>
+      <description>Well I am back from vacation and totally didnt work on anything via a computer but rather tried to be in the moment and take things in. Some goals for next couple weeks:
+Perhaps sign up for a instructor run Network+ course&amp;hellip; Do the UX/UI of the game. Do more online stuff like make a merch store for the game. I am looking forward to a straw bale workshop that I signed up for, but need to make a youtube channel and make some videos to then start up Coorie Home again.</description>
+    </item>
+    <item>
+      <title>Madrid_is_done</title>
+      <link>https://blakeanneberg.com/posts/madrid_is_done/</link>
+      <pubDate>Sun, 28 Apr 2024 13:21:25 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/madrid_is_done/</guid>
+      <description>I am too tired to write a post, going to bed.</description>
+    </item>
+    <item>
+      <title>Getting back to backend dev</title>
+      <link>https://blakeanneberg.com/posts/getting_back_to_backend_dev/</link>
+      <pubDate>Wed, 17 Apr 2024 22:08:16 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/getting_back_to_backend_dev/</guid>
+      <description>I am taking a break from Python&amp;hellip; for some reason its hard&amp;hellip; and I am skipping to learn my command line.
+I am glad I am getting better at grep and file paths like Absolute vs Relative.
+I think these short breaks are good but I also feel bad that I am avoiding python&amp;hellip; as I eventually want to start GO. Also I forget that after Python I will then start to learn JavaScript&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Vacation study</title>
+      <link>https://blakeanneberg.com/posts/vacation_study/</link>
+      <pubDate>Mon, 15 Apr 2024 21:50:54 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/vacation_study/</guid>
+      <description>Thinking of what I will do over vacation time and when not running and traveling. Some things:
+online studies. the game. YouTube Some things that are not so work related are:
+Pools and swim more Yoga classes Fitness classes Bike ride in Copenhagen Go to a cooking class Otherwise, it will be busy.
+Also, I am looking forward to just working on things that I want to work on and getting Jira items out of the way.</description>
+    </item>
+    <item>
+      <title>Spring is here</title>
+      <link>https://blakeanneberg.com/posts/spring_is_here/</link>
+      <pubDate>Sun, 14 Apr 2024 20:58:31 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/spring_is_here/</guid>
+      <description>I have not been studying and I have not been working on any project as I have been focusing on pretty much work and running.
+I feel like I am cramming for a test in getting ready for the marathons. I wish I had started running a bit earlier this year and traing like in the last blog post with incrimental daily runs.
+Otherwise I feel like I am pretty fit and will just survive marathons at lower altitude.</description>
+    </item>
+    <item>
+      <title>Study Hope</title>
+      <link>https://blakeanneberg.com/posts/study_hope/</link>
+      <pubDate>Mon, 08 Apr 2024 18:55:37 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/study_hope/</guid>
+      <description>After my hour of study Network+ I am starting to feel a bit confident.
+I think I might be able to study it all and pass the exam.
+I do want to go back and take exact steps and notes for subnetting. As well as do more with TCPIP and OSI model.
+If I can get those down and memorized I will have a huge shot of actually passing.
+I am looking forward to not having to study for this exam, and being more confident in general networking.</description>
+    </item>
+    <item>
+      <title>How to train for marathons</title>
+      <link>https://blakeanneberg.com/posts/how_to_train_for_marathons/</link>
+      <pubDate>Sun, 07 Apr 2024 21:11:25 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/how_to_train_for_marathons/</guid>
+      <description>I forgot how to train for a marathons, so I looked up my Strava history.
+Just like I forgot how to replace all occurrences of _ on a line or document in vim&amp;hellip; so I just looked it up and its :%s/str1/str2/g with the g option if you want to replace all instances globally.
+Back in the day when I did not know how to run long distances I used a book The Non-Runner&amp;rsquo;s Marathon Trainer by David A.</description>
+    </item>
+    <item>
+      <title>Slow Jog Slow Learning</title>
+      <link>https://blakeanneberg.com/posts/slow_jog_slow_learning/</link>
+      <pubDate>Sat, 06 Apr 2024 12:02:52 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/slow_jog_slow_learning/</guid>
+      <description>I went running on the treadmill again to get ready for the marathons and what struck me was how boring it was. I was constantly looking at my phone and changing music.
+So I thought I should use a ipad to study my courses on Coursera. So after setting up Bluetooth headphones I was able to study TCP/IP and Hotel Financials course. It was great. I was going pretty slow and it made my ipad to have 75% battery, but after two hours I had done alot of study.</description>
+    </item>
+    <item>
+      <title>Hyperloop and trains</title>
+      <link>https://blakeanneberg.com/posts/hyperloop_and_trains/</link>
+      <pubDate>Wed, 03 Apr 2024 20:50:24 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/hyperloop_and_trains/</guid>
+      <description>Recently I have seen alot of positive updates regarding hyperloops and trains.
+Specifically, hyperloop test track updates in Europe and Colorado and passenger rail plans in Colorado.
+For hyperloop, Hardt Hyperloop and the European Hyperloop Center are completing their test track. I would love to see this in person. Also Swiss Pod is starting their test track in Pueblo Colorado at the PuebloPlex train testing facility. I too would love to visit this and support this.</description>
+    </item>
+    <item>
+      <title>I3 and studies</title>
+      <link>https://blakeanneberg.com/posts/i3_and_studies/</link>
+      <pubDate>Tue, 02 Apr 2024 22:53:13 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/i3_and_studies/</guid>
+      <description>I have enjoyed using my old laptop with Fedora and using i3 as my window manager.
+I definitely forgot a lot but having the computer really do only so much helps me focus more so I don&amp;rsquo;t get distracted.
+Also the battery lasts longer as I just have Firefox and my terminal open.
+In Firefox I have added the extension called Vimium so I can navigate faster witout using the mouse.</description>
+    </item>
+    <item>
+      <title>Building off of layers</title>
+      <link>https://blakeanneberg.com/posts/building_off_of_layers/</link>
+      <pubDate>Mon, 01 Apr 2024 22:09:15 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/building_off_of_layers/</guid>
+      <description>In studding the OSI model layers, I am reminded of straw bale construction and plastering in layers. I am re-learning from my notes for the Network+ exam and it appears to make more sense this second time around. I also cant wait to re-learn straw bale construction and plastering. I think this second hands on workshop will be great.
+Speaking of relearning, I am enjoying Fedora 39 on by Dell laptop using i3.</description>
+    </item>
+    <item>
+      <title>Learning tech skills</title>
+      <link>https://blakeanneberg.com/posts/learning_tech_skills/</link>
+      <pubDate>Thu, 28 Mar 2024 21:14:13 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/learning_tech_skills/</guid>
+      <description>A lot of what I do is learn abstractly about tech and but then in the field have to remember how to use it.
+For example, I have been learning about switches and ports, but had to remember quickly the stuff about switches to be able to re-learn how to find ports on a NVR.
+I now know how to find video feeds from the NVR after having more time to take time and get familiar with the NVR.</description>
+    </item>
+    <item>
+      <title>Hour Study Time</title>
+      <link>https://blakeanneberg.com/posts/hour_study_time/</link>
+      <pubDate>Tue, 26 Mar 2024 16:05:04 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/hour_study_time/</guid>
+      <description>Trying out something new to get the Network Plus study material done from Testout. Going to study from 4 to 5 pm everyday!
+Today got innturruped a bit but it was actually really good to study. I was also able take some notes. I probably didnt get as much video watching done as I would have liked but it felt really good to have the time set asde.
+I am looking forward to this and hope to get alot done.</description>
+    </item>
+    <item>
+      <title>Grep skills</title>
+      <link>https://blakeanneberg.com/posts/grep_skills/</link>
+      <pubDate>Thu, 21 Mar 2024 23:03:32 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/grep_skills/</guid>
+      <description>I am enjoying my new Networking course from Cisco Skills for All. Its free and I think its good so far.
+I was taking notes when I wanted to make ASCII art box around the tile and I knew I made a blog post about it&amp;hellip; So I looked up the blog post and re-read my instructions but I saw !! instead of !. So I needed to edit the .</description>
+    </item>
+    <item>
+      <title>3 Marathons</title>
+      <link>https://blakeanneberg.com/posts/3_marathons/</link>
+      <pubDate>Wed, 20 Mar 2024 22:28:17 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/3_marathons/</guid>
+      <description>I am really looking forward to three races.
+Madrid: I cant wait to go back. I just cant wait. I cant believe it either. Copenhagen: I cant say much more than I am stoked. Helsinki: Will round out completing marathons around Scandinavia. This kinda blows my mind.
+I am so excited.
+I wont go to fast but that&amp;rsquo;s okay. I am there just to run. :)</description>
+    </item>
+    <item>
+      <title>Sustainable construction</title>
+      <link>https://blakeanneberg.com/posts/sustainable_construction/</link>
+      <pubDate>Sun, 17 Mar 2024 22:32:20 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/sustainable_construction/</guid>
+      <description>So I am really happy that there are so many sustainable construction companies in Colorado. For the summer, I am taking part in a 7 day construction workshop and then later in the summer a 3 day plaster workshop.
+What I want to get out of this is threefold:
+Learn more trades Meet more people Increase awairness of sustainable construction. I do still wish I had my own property and my own house to practice these techniques.</description>
+    </item>
+    <item>
+      <title>Gamification</title>
+      <link>https://blakeanneberg.com/posts/gamification/</link>
+      <pubDate>Tue, 12 Mar 2024 22:58:19 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/gamification/</guid>
+      <description>Well, I have two big things coming up which will take alot of time.
+Colorado Rail Game Network+ Both are huge goals and after reviewing all my ideas for the Rail Game and re-visiting the TestOut coursework for Network+ I feel like I am prepared to tackle them.
+For the game, there is so much that I can draw upon from recent events and historical events, that I feel like the story will come together pretty easily.</description>
+    </item>
+    <item>
+      <title>Network&#43; back into focus</title>
+      <link>https://blakeanneberg.com/posts/network&#43;_back_into_focus/</link>
+      <pubDate>Mon, 11 Mar 2024 21:31:08 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/network&#43;_back_into_focus/</guid>
+      <description>The Network+ course is back into my life.
+Back when I when I was answering support tickets, and getting tired of it, I started to believe there could be a different future for my career.
+I had spent years trying to learn to code on TeamTreeHouse. Weekends trying to learn to put projects together. I just was not having much success, thinking that becoming a programmer was a overnight thing.</description>
+    </item>
+    <item>
+      <title>Pyramid Principle</title>
+      <link>https://blakeanneberg.com/posts/pyramid_principle/</link>
+      <pubDate>Sun, 10 Mar 2024 23:36:05 -0600</pubDate>
+      <guid>https://blakeanneberg.com/posts/pyramid_principle/</guid>
+      <description>I am glad I am taking so many online courses as I think it is giving me better skills that I can immididate use.
+Take for example Firm Learning, which is for consultants but I paid for the &amp;lsquo;Communications and Slide Writing Academy.&amp;rsquo; This is where I learned how to write slides, or even blog posts about structuring a online for all kinds of documents. First, you outline the most important item you want to convey.</description>
+    </item>
+    <item>
+      <title>SQL Quiz and drawing boxes and ASCII art with Boxes</title>
+      <link>https://blakeanneberg.com/posts/sql_quiz/</link>
+      <pubDate>Sat, 09 Mar 2024 10:28:31 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/sql_quiz/</guid>
+      <description>While taking my online course SQL for Data Science on Coursera, I really under estimated that the exams would be quite long with alot of queries. It was pretty painful to get my head thinking about how to write them and I was getting pretty impatient.
+However, writing these queries is getting me excited when I eventually learn how to write in Go and be able to connect my app with the database.</description>
+    </item>
     <item>
       <title>Neovim_win</title>
       <link>https://blakeanneberg.com/posts/neovim_win/</link>
