@@ -7,6 +7,11 @@ paginate = 5
 enableEmoji = true
 mainsections = [ "posts", "papermod" ]
 
+[taxidermies]
+categories = "catigroies"
+tag = "tags"
+
+
 [[menu.main]]
 identifier = "about.md"
 name = "About"
@@ -18,7 +23,6 @@ identifier = "archives.md"
 name = "Archives"
 url = "/archives/"
 weight = 20
-
 
 [[menu.main]]
 identifier = "InTheHyperloop"
