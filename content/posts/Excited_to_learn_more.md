@@ -1,5 +1,5 @@
 ---
-witle: "Excited to learn more"
+title: "Excited to learn more"
 date: 2024-08-22T22:37:31-06:00
 ---
 
