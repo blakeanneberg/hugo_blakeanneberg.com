@@ -1,5 +1,5 @@
 ---
-litle: "CPH goals"
+title: "CPH goals"
 date: 2024-09-17T08:32:29-06:00
 ---
 I am really stoked to be doing two races in CPH. My goals are two part.
