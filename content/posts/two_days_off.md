@@ -3,7 +3,7 @@ title: "Two days off"
 date: 2024-09-22T19:01:41-06:00
 ---
 
-Funny to have two days off of study and exorcizes.
+Funny to have two days off of study and exercise.
 
 By the third day I am itching to study and go for a run/swim/bike.
 
