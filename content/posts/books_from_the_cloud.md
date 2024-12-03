@@ -3,7 +3,7 @@ title: "Books from the cloud"
 date: 2024-12-02T18:06:24-07:00
 ---
 
-I am really impressed with having the entire written collection of books on early possibly accessible from any device.
+I am really impressed with having the entire written collection of books on early accessible from any device.
 
 This weekend I purchased Stillness is the Key by Ryan Holiday and rented from the public library when Things Don't Go Your Way by Haemin Sunmin. Within seconds I had them on my phone, and tens of seconds I had them on my Kindle.
 
