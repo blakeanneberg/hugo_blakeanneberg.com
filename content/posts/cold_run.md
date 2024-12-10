@@ -1,5 +1,5 @@
 ---
-title: "Cold_run"
+title: "Cold run"
 date: 2024-12-05T18:49:50-07:00
 ---
 I said that I would just run around the park. Thats it. Its not even a mile. 
