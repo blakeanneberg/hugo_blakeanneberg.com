@@ -1,5 +1,5 @@
 ---
-title: "Thing I Learned"
+title: "Remarks"
 date: 2024-12-29T22:18:08-07:00
 ---
 First draft:
@@ -33,4 +33,33 @@ The value of a clean home: She kept her home spotless, teaching me the importanc
 Appreciating the simple things: I'll never forget her showing me a delicate jasmine flower, teaching me to savor the small moments of beauty.
 The strength within: Grandma was incredibly strong, both physically and emotionally.
 The power of gratitude: She often expressed her gratitude, a simple act that always made me feel valued and loved.
+I am so grateful for these memories and the profound impact she had on my life.
+
+
+
+-----------------------
+Third draft:
+
+I want to share some of the lessons I learned from my Grandma L.
+
+The beauty of handwriting: She had the most elegant cursive and she could write so small words. I still use some of the flourishes she taught me in my own cursive.  
+
+The joy of laughter: L had a wonderful way of telling jokes. She always wanted to see you smile, and that made everyone around her happier. What did the cat need when it wasn't feeling well? A purr-scripton! Then she would follow up saying "Do your co-workers know that. I am 96 year old ??"
+
+The spirit of adventure: She embraced opportunities to travel, always eager learn, explore and experience new things. I enjoyed her driving me "off road" in her own golf cart! 
+
+The importance of self-care: She had the softest skin, a testament to her dedication to self-care.
+
+The art of capturing memories: L was a passionate photographer, documenting everything from our breakfasts to the most beautiful landscapes. She had full confidence using the camera.
+
+She emailed: She used different kinds of text colors, different kinds of fonts, and signed off with emojis. Her emails were great. 
+
+The value of a clean home: She kept her home spotless, teaching me the importance of order, a tidy space and sweeping. 
+
+Appreciating the simple things: I'll never forget her showing me a delicate jasmine flower from two jasmine planters she purchased that were placed outside the garage. Teaching me to savor the small moments of beauty and to seek them out.
+
+The strength within: L was incredibly strong, both physically and emotionally. She often commented me on my strong legs, and I commented that she had very strong biceps.
+
+The power of gratitude: She often expressed her gratitude, a simple act that always made me feel valued and loved.
+
 I am so grateful for these memories and the profound impact she had on my life.
