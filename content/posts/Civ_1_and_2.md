@@ -5,11 +5,11 @@ date: 2025-01-08T15:52:01-07:00
 
 I put Civ 1 and Civ 2 back on my surface pro. 
 
-I dont know why, as I have Civ 1 on my Mac, but I just felt like I needed to play just one more turn.
+I don't know why, as I have Civ 1 on my Mac, but I just felt like I needed to play just one more turn.
 
-I dont know why I think about it so much. I remmember playing it on a computer in the basement and the music and soundtrack, and the history I was learning by playing each civ. 
+I don't know why I think about it so much. I remember playing it on a computer in the basement and the music and soundtrack, and the history I was learning by playing each Civ. 
 
-My main strategy is to just develop on one island or contenent and near the end when I have advanced tech I quickly take over the world. Otherwise I love having a couple cities and then do a space victory. 
+My main strategy is to just develop on one island or continent and near the end when I have advanced tech I quickly take over the world. Otherwise I love having a couple cities and then do a space victory. 
 
 If there was one game I would play forever, it really might be Civ 1 or Civ 2. 
 
