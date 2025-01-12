@@ -1,5 +1,5 @@
 ---
-title: "Running Clothes"
+title: "New Plan"
 date: 2025-01-12T15:01:30-07:00
 ---
 For some time I have been wanting to have a in person store that sells Saysky clothing, has coffee/snacks and sells scandi/local stuff.
