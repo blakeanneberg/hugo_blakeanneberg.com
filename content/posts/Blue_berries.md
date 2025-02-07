@@ -1,5 +1,5 @@
 ---
-title: "Blueberries"
+title: "Blue berries"
 date: 2025-02-06T21:25:50-07:00
 ---
 I love them. 
