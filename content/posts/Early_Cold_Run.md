@@ -12,3 +12,5 @@ So I just did the 5 miles, and it was around 27F. It was cold the whole way arou
 I am really happy I did the run even though I was slow and I had to do loops to avoid construction. 
 
 I think it goes back to the being Stoic and having a routine. Just keep doing the routine. 
+
+Finally, I have not worked as hard on Boot.dev and CCNA study. I feel bad about it, but I am glad I have been busy with the Train game and training for triathlon. 
