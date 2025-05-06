@@ -19,7 +19,7 @@ MVP1 is using funds to get a very very core game loop running with code.
 
 MVP2 will be additional conntent and citites to MVP2. 
 - Heavy emphasis on crowdfunding, plug merch store.
--
 
-But Phase two is also the start of other tasks. 
+What will be really important is to track progress, and after each meeting write down meeting notes.
 
+Also imporant is to figure out how the game will become self suficient in its development.
