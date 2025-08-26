@@ -30,7 +30,8 @@ I just need to do more research in what energy saving and eco friendly construct
 
 Also need to do more research on the meaning behind Scottish Coorie as it basically means to nestle or snuggle.
 
-"It encourages us to appreciate the simple pleasures in life, embracing the great outdoors (no matter what the weather) and enjoying the cosy feeling of coming back to home comforts afterwards." via ttps://www.scotland.org/inspiration/cosy-coorie-traditions
+> "It encourages us to appreciate the simple pleasures in life, embracing the great outdoors (no matter what the weather) and enjoying the cosy feeling of coming back to home comforts afterwards." 
+via [Scotland.org](https://www.scotland.org/inspiration/cosy-coorie-traditions)
 
 
 
