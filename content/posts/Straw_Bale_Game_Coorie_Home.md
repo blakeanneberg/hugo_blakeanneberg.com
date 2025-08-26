@@ -24,4 +24,14 @@ But one unique thing is cozy Scottish furnature you could add as your house is c
 - Books
 - Coorie home kind of things
 
-The game would also teach you about nature and give bonus points on using energy saving things.
+The game would also teach the importance of living with nature and give bonus points on using energy saving things.
+
+I just need to do more research in what energy saving and eco friendly construction materials can be used in the game. 
+
+Also need to do more research on the meaning behind Scottish Coorie as it basically means to nestle or snuggle.
+
+"It encourages us to appreciate the simple pleasures in life, embracing the great outdoors (no matter what the weather) and enjoying the cosy feeling of coming back to home comforts afterwards." via ttps://www.scotland.org/inspiration/cosy-coorie-traditions
+
+
+
+
