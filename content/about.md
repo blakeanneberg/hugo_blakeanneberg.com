@@ -4,7 +4,7 @@ date: 2024-08-07T21:50:43-06:00
 ShowToc: = true
 ---
 
-👋 B 
+👋 Hi from Blake. 
 
 🌱 Hobbies: 
 - Swim/Bike/Run
