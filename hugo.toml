@@ -26,6 +26,12 @@ url = "https://www.inthehyperloop.com/"
 weight = 30
 
 [[menu.main]]
+identifier = "ColoradoRailGame.com"
+name = "ColoradoRailGame.com"
+url = "https://www.ColoradoRailGame.com/"
+weight = 30
+
+[[menu.main]]
 identifier = "CoorieHome.com"
 name = "CoorieHome.com"
 url = "https://www.cooriehome.com/"
