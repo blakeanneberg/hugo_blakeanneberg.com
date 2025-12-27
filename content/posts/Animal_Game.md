@@ -9,11 +9,10 @@ Some goals for the animal game:
 1. Educational: You can learn about the animal, the location and enviroment it lives in, as well as other things about humans impact.
 2. Partner with other groups to develop it: Need subject matter experts
 3. Raise money for preservation.
-
-Other ideas: 
-
-1. The game scale for a region is hard to imagine for a animal, so might need to change it. 
-2. Mini games for learning about the animal, or other animals in the area, or about the ecology of the area. 
+4. Learn and use pixel art!!!
+5. Devleop the game with vlogging and real world locations.
+6. Release the Animal game in Steams "Animal Fests" like in November.
+7. Have real life audio and sounds from the enviroment.
 
 How the animal game will map to the current game engine:
 
@@ -22,6 +21,13 @@ How the animal game will map to the current game engine:
 - Discover places though meeting other animals or people? They can talk to each other? Or other animals that are same species. Or talk to people that studied these animals? 
 - Explore ecologies (cities) via the map view and then go to different locations in the area.
 - Travel diary builds up to places the animal visits and facts about the animal? 
-- The items that are sold in stores are repurposed to be facts and stories about the animal and the region it lives in. 
+- The items that are sold in stores are repurposed to be facts and stories about the animal and the region it lives in, or are food items from the enviorment the animal is based in.
 
+Other ideas: 
 
+1. The game scale for a region is hard to imagine for a animal, so might need to change it. 
+2. Mini games for learning about the animal, or other animals in the area, or about the ecology of the area. 
+3. Locations to "visit" are specific to animals.
+4. Have a "Plant" game... play as a tree?
+
+So while the goal of this new project is a streatch, it could be a wild ride.
