@@ -2,17 +2,17 @@
 title: "Animal Game"
 date: 2025-12-27T11:54:01-07:00
 ---
-Well, without the main game finished yet, I want to use the game engine as a animal game, where the animal is going on a journey. I think its pretty analougous the current game loop. 
+Well, without the main game finished yet, I want to use the game engine as a animal game, where the animal is going on a journey. I think its pretty analogous the current game loop. 
 
 Some goals for the animal game:
 
-1. Educational: You can learn about the animal, the location and enviroment it lives in, as well as other things about humans impact.
+1. Educational: You can learn about the animal, the location and environment it lives in, as well as other things about humans impact.
 2. Partner with other groups to develop it: Need subject matter experts
 3. Raise money for preservation.
 4. Learn and use pixel art!!!
-5. Devleop the game with vlogging and real world locations.
+5. Develop the game with vlogging and real world locations.
 6. Release the Animal game in Steams "Animal Fests" like in November.
-7. Have real life audio and sounds from the enviroment.
+7. Have real life audio and sounds from the environment.
 
 How the animal game will map to the current game engine:
 
@@ -21,7 +21,7 @@ How the animal game will map to the current game engine:
 - Discover places though meeting other animals or people? They can talk to each other? Or other animals that are same species. Or talk to people that studied these animals? 
 - Explore ecologies (cities) via the map view and then go to different locations in the area.
 - Travel diary builds up to places the animal visits and facts about the animal? 
-- The items that are sold in stores are repurposed to be facts and stories about the animal and the region it lives in, or are food items from the enviorment the animal is based in.
+- The items that are sold in stores are repurposed to be facts and stories about the animal and the region it lives in, or are food items from the environment the animal is based in.
 
 Other ideas: 
 
@@ -30,4 +30,4 @@ Other ideas:
 3. Locations to "visit" are specific to animals.
 4. Have a "Plant" game... play as a tree?
 
-So while the goal of this new project is a streatch, it could be a wild ride.
+So while the goal of this new project is a stretch, it could be a wild ride.
