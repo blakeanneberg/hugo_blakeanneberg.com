@@ -1,5 +1,5 @@
 ---
-title: "More Practce More Game"
+title: "More Practice More Game"
 date: 2026-01-01T20:13:46-07:00
 ---
 I need to get back in the habit of Godot study.
