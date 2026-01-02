@@ -6,8 +6,213 @@
     <description>Recent content in Posts on BlakeAnneberg.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Nov 2025 08:41:41 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 20:13:46 -0700</lastBuildDate>
     <atom:link href="https://blakeanneberg.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>More Practice More Game</title>
+      <link>https://blakeanneberg.com/posts/more_practice_more_games/</link>
+      <pubDate>Thu, 01 Jan 2026 20:13:46 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/more_practice_more_games/</guid>
+      <description>I need to get back in the habit of Godot study.
+There are a couple reasons I dropped off&amp;hellip;
+Focusing more on Boot.dev which is Python study right now. I want to keep my streak alive for January, and I am using Boots alot to help&amp;hellip; but I feel like I am learning too. I want to run more. I want to make time to exercise as a highest priority of the entire day.</description>
+    </item>
+    <item>
+      <title>NM UT WY</title>
+      <link>https://blakeanneberg.com/posts/nm_ut_wy/</link>
+      <pubDate>Tue, 30 Dec 2025 08:59:21 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/nm_ut_wy/</guid>
+      <description>I cant wait to inlcude these passenger rail routes. But first I need to go back and visit them in person.
+During our dev meeting today, we talked about going the extra mile, and the dev re-phrased it as &amp;ldquo;Travel extra trip, its always worth it.&amp;rdquo;
+I think doing a road trip to these locations would be worth the extra trip.</description>
+    </item>
+    <item>
+      <title>Remote Worker</title>
+      <link>https://blakeanneberg.com/posts/remote_worker/</link>
+      <pubDate>Mon, 29 Dec 2025 18:22:44 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/remote_worker/</guid>
+      <description>I was thinking of being a remote worker&amp;hellip; for my self.
+The Steam Fest deadline is fast approaching and I think only the store page has to be published for me to put my application in for Jan 5th.
+I have so many ideas using the game engine that I am looking forward to implementing them&amp;hellip; but I am also thinking of making more time for doing the development work. So I am looking forward to being a remote self-worker some day.</description>
+    </item>
+    <item>
+      <title>Cold Scate Ski</title>
+      <link>https://blakeanneberg.com/posts/cold_scate_ski/</link>
+      <pubDate>Sun, 28 Dec 2025 11:35:37 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/cold_scate_ski/</guid>
+      <description>The snow has been so bad that finally there was 3 inches that fell and I went out to the Nordic Center.
+First, it was really cold, with wind, so maybe it was in the single digits, but around 13 on my car.
+Second, the snow blew away from the exposed areas of the trail, which were hard to see.
+Third, I just had waxed them and now there are some areas where rocks and pebbles which tore up my new wax and make alot of rips into the actual skis.</description>
+    </item>
+    <item>
+      <title>Animal Game</title>
+      <link>https://blakeanneberg.com/posts/animal_game/</link>
+      <pubDate>Sat, 27 Dec 2025 11:54:01 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/animal_game/</guid>
+      <description>Well, without the main game finished yet, I want to use the game engine as a animal game, where the animal is going on a journey. I think its pretty analogous the current game loop.
+Some goals for the animal game:
+Educational: You can learn about the animal, the location and environment it lives in, as well as other things about humans impact. Partner with other groups to develop it: Need subject matter experts Raise money for preservation.</description>
+    </item>
+    <item>
+      <title>Start Projects</title>
+      <link>https://blakeanneberg.com/posts/start_projects/</link>
+      <pubDate>Thu, 25 Dec 2025 14:34:34 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/start_projects/</guid>
+      <description>I am really looking forward to starting new projects/hobbies.
+Using Godot and Python knowledge to start work on a game that uses the Game engine for CRG to then create a new game that centes around either hiking or biking and another game that focues on sustainable construction. I am also learing pixel art and want to develop this game with Youtube Vlogs. Learn bagpipes, hopefully with a digital chanter. Ardueno&amp;hellip; Now just need to carve out time to work on it.</description>
+    </item>
+    <item>
+      <title>YT Vlog</title>
+      <link>https://blakeanneberg.com/posts/yt_vlog/</link>
+      <pubDate>Tue, 23 Dec 2025 17:43:36 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/yt_vlog/</guid>
+      <description>UPDATE: Just created it!
+I am really thinking of starting a YT account for the video game.
+Not really sure how it will be but having a dedicated channel, but it might be a good idea.
+Espically if the game will have expansions like new content and routes.</description>
+    </item>
+    <item>
+      <title>DevOps Room Layout</title>
+      <link>https://blakeanneberg.com/posts/room_layout/</link>
+      <pubDate>Thu, 18 Dec 2025 23:05:22 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/room_layout/</guid>
+      <description>I am interested about Kubernetes as I keep watching Youtube videos about linux and also want to learn about Docker and containers, so this week at work I learned about Ansible for Cisco networking equipment. I didn&amp;rsquo;t really know the difference between all these technologies, so I stumbled across this metaphor after Googling for the differences between them:
+For a room: &amp;ldquo;Terraform builds the room, Ansible furnishes the room and Kubernetes manages the room&amp;rsquo;s operation.</description>
+    </item>
+    <item>
+      <title>Upload Time</title>
+      <link>https://blakeanneberg.com/posts/upload_time/</link>
+      <pubDate>Tue, 16 Dec 2025 08:31:45 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/upload_time/</guid>
+      <description>Its finally time to upload the first ever build of the game.
+Very greatfull for the help and work that has been put into the game.
+The game is still pretty rough but at least its a version that is playable.</description>
+    </item>
+    <item>
+      <title>Finnish Music</title>
+      <link>https://blakeanneberg.com/posts/finnish_music/</link>
+      <pubDate>Mon, 15 Dec 2025 19:10:46 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/finnish_music/</guid>
+      <description>I am really liking listing to music from Finland. Its pretty much all YLE Radio Suomi.
+I wish I was there listening to it in the car or on a train.
+I really hope I can create a rail game in finland and spend more time there experiencing Finland culture.
+Then at the same time I can make the sauna game, run marathons, and swim in lakes.</description>
+    </item>
+    <item>
+      <title>FTP and Game Development</title>
+      <link>https://blakeanneberg.com/posts/ftp_and_game_development/</link>
+      <pubDate>Wed, 10 Dec 2025 18:17:23 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/ftp_and_game_development/</guid>
+      <description>I learned about about FTP and how important a measure it is when assessing workouts and life fitness. During the FTP test, you have to hit maximum effort to measure the about of Co2 and o2, which is not very fun to do. But the end result is a number that is unique and you will be able to plan workouts better.
+Otherwise, how does FTP and video game development have in common?</description>
+    </item>
+    <item>
+      <title>Skinning &amp; Gaming</title>
+      <link>https://blakeanneberg.com/posts/skinning_gaming/</link>
+      <pubDate>Thu, 04 Dec 2025 19:02:00 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/skinning_gaming/</guid>
+      <description>Skinning is really fun, if a bit sweaty. One idea is to do video game vlog updates while skinning up the mountain.</description>
+    </item>
+    <item>
+      <title>Blender and Plants</title>
+      <link>https://blakeanneberg.com/posts/blender_and_plants/</link>
+      <pubDate>Wed, 03 Dec 2025 23:00:01 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/blender_and_plants/</guid>
+      <description>Blender, the 3d modeling software and plants have something in common.
+Well seeds of plants.
+I want to be able to make things in Blender and use them as assets in games. I also have seeds for plants, and I want to be inspired to make little 3d terrariums.
+I also want to do a couple things daily.
+Make time for exercise every day. Do couple lessons of Boot.Dev, Godot on GameDev.</description>
+    </item>
+    <item>
+      <title>Shortwave</title>
+      <link>https://blakeanneberg.com/posts/shortwave/</link>
+      <pubDate>Wed, 03 Dec 2025 14:55:39 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/shortwave/</guid>
+      <description>I am so glad to learn about shortwave.
+My top channels are:
+Shonan Beach FM YLE RAdio Suomi Helsiniki BBC Scotland BBC Radio 1 SR.SE and some Danish channels I like Jazz and hearing new music I would not normally hear.
+Wish my Andorid phone had shortwave.</description>
+    </item>
+    <item>
+      <title>Stoic Routines</title>
+      <link>https://blakeanneberg.com/posts/stoic_routines/</link>
+      <pubDate>Mon, 01 Dec 2025 22:30:56 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/stoic_routines/</guid>
+      <description>This is a foundation of of stoic thought. Some of mine are:
+Exercise every day Learn a bit of code (boot.dev python, Go, CCNA) Work on the video game or learn Godot or pixel art or Blender Try and wake up early Writing out helps put distance to see a new perspective. Basically its structure and systems to make me productive.
+But also I don&amp;rsquo;t get upset as I have to be flexible if I don&amp;rsquo;t have enough time for the routine.</description>
+    </item>
+    <item>
+      <title>Vim motions in Godot</title>
+      <link>https://blakeanneberg.com/posts/vim_motions_in_godot/</link>
+      <pubDate>Sun, 30 Nov 2025 13:11:47 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/vim_motions_in_godot/</guid>
+      <description>I am so glad to use Vim motions in Godot script editor.
+I was having such a painful time using mouse. Now I can work so much easier places just with keyboard. I also like Godot having a LSP, so I dont have to remember everything about the syntax.
+I hope that Godot can be my first real life coding win. I never really did any Javascript or Go project, so Godot script will hopefully be my first.</description>
+    </item>
+    <item>
+      <title>Nordic Center</title>
+      <link>https://blakeanneberg.com/posts/nordic_center/</link>
+      <pubDate>Sat, 29 Nov 2025 18:48:21 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/nordic_center/</guid>
+      <description>Going to the Nordic center is always nice.
+I know one person over there and its nice to talk to him and hear about all things Nordic skiing. Also I like the clothing which is also what I wear for skinning.
+Last night it snowed a bit, so it was almost enough to try classic skiing.
+When the trail officially opens, the restaurant opens and sells unlimited soup, which is nice after being cold.</description>
+    </item>
+    <item>
+      <title>Learn Godot</title>
+      <link>https://blakeanneberg.com/posts/learn_godot/</link>
+      <pubDate>Thu, 27 Nov 2025 09:16:55 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/learn_godot/</guid>
+      <description>Its been a number of months since I first purchased my Godot learning course. Finally this week I have sat down and started to learn it. With all tutorials, its pretty slow going at first. But its forcing me to think creatively and learning something new is always fun.
+I purchased the course on GameDev.TV and then they had more sales so I purchased a drawing course, and a Blender course, pixel art course which Ill learn Asprite.</description>
+    </item>
+    <item>
+      <title>More Game Ideas</title>
+      <link>https://blakeanneberg.com/posts/more_game_ideas/</link>
+      <pubDate>Tue, 25 Nov 2025 09:15:29 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/more_game_ideas/</guid>
+      <description>Well, I have more game ideas.
+Putting in CO Rail Game the idea about riding bikes, and even kayaking are enough to re-scope out the game, and I would love Sauna to go in there too.
+What these two things would do is to closely align with European ideas of sustainable transportation, preserving nature, traveling across borders, and social responsibility and equality with Finnish Sauna ideas.
+&amp;ldquo;The Finish sauna is a great equalizer.</description>
+    </item>
+    <item>
+      <title>Cold Running Season</title>
+      <link>https://blakeanneberg.com/posts/cold_running_season/</link>
+      <pubDate>Mon, 24 Nov 2025 17:42:53 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/cold_running_season/</guid>
+      <description>Its dark out when I go run at 5pm. Its also cold.
+I now have to wear pants, gloves, hat, and potentially multiple layers for jacket.
+I have to watch out for ice, uneven surfaces and potentially bring lights.
+Not linking it.
+But I am looking forward to skate skiing in the dark.
+What would be better is to go run in the morning. But ill have to dress up even more and wake up super early in the morning.</description>
+    </item>
+    <item>
+      <title>One Game Loop; Multiple Games</title>
+      <link>https://blakeanneberg.com/posts/one_game_loop_multiple_games/</link>
+      <pubDate>Sun, 23 Nov 2025 18:20:19 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/one_game_loop_multiple_games/</guid>
+      <description>Before I write about the blog title, I wanted to replace in Neovim the underlines of _ with spaces of my Hugo markdown file title name which is title: &amp;quot;One Game Loop Multiple Games&amp;quot; so after a bit of googling I figure out that its :%s/_/ /gc.
+Right now I am listing to VLE Radio Suomi Helsinki and its all in Finnish and sounds kinda country music.
+I wish I knew Finish and Swedish, Danish and Norwegian.</description>
+    </item>
+    <item>
+      <title>Green Tea and smoothies</title>
+      <link>https://blakeanneberg.com/posts/green_tea/</link>
+      <pubDate>Sat, 22 Nov 2025 10:33:26 -0700</pubDate>
+      <guid>https://blakeanneberg.com/posts/green_tea/</guid>
+      <description>I really like hot or cold green, jasmine pearl, black, or chai tea.
+I also like smoothies which have frozen blueberries, bananas, strawberries.
+Typically I like smoothies after I work out. Tea is nice in the morning up to mid day.
+Loose leaf tea is also nice, and I would like to do this more often as I feel that tea bags have less quality tea or have plastic.
+Its hard to believe how much work it is to make tea, and how to hard it is to learn how tea ceremonies are performed.</description>
+    </item>
     <item>
       <title>Freemium with DLC</title>
       <link>https://blakeanneberg.com/posts/freemium_with_dlc/</link>
