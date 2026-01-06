@@ -9,4 +9,4 @@ There are a couple things I don't like doing last minute.
 - Running. I don't like rushing a run... or running to catch a train or a bus. 
 - Packing up in the morning. Not fun, and I might forget something.
 
-Just not fun rushing things at the last minute.
+Just not fun rushing things at the last minute. Usually means something needs to be looked at again.
