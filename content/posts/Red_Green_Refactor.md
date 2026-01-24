@@ -11,17 +11,15 @@ So when I present a positive, forward view of sustainable transportation via a v
 So when it comes to what red, green and refactor mean... it reminded me of my experience in the creative writing group. 
 
 So from Boot.Dev:
-"Why add a failing test on purpose?
-Programmers often follow “red → green → refactor”:
-
-Red: Write a test that fails (shows the bug / missing feature).
-Green: Change the code so the test passes.
-Refactor: Clean up the code while keeping tests passing.
-So we add a failing test to:
-
-Prove the bug actually exists.
-Lock in the correct behavior we want.
-Make sure when we fix the code, the test will confirm the fix."
+>"Why add a failing test on purpose? Programmers often follow “red → green → refactor”:
+>Red: Write a test that fails (shows the bug / missing feature).
+>Green: Change the code so the test passes.
+>Refactor: Clean up the code while keeping tests passing.
+>So we add a failing test to:
+>
+>Prove the bug actually exists.
+>Lock in the correct behavior we want.
+>Make sure when we fix the code, the test will confirm the fix."
 
 Since the initial meetings of pessimistic views of humans, sustainability and nature were the red. 
 
