@@ -2,7 +2,9 @@
 title: "Summer Weather Running"
 date: 2026-03-01T12:12:15-07:00
 ---
-Really nice to have nice weather for running. 
+Really nice to have warm summer weather for running. 
+
+Only concern is its really dry out and need to use sunscreen. 
 
 Some of the runs I want to do are: 
 1. Park to Park to Park.
