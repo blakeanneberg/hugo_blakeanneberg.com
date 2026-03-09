@@ -12,7 +12,7 @@ It might be nice to have morning, midday, and  afternoon sounds.
 
 I also want to perhaps include the river sounds.
 
-This will help with any future video game, to make it feel rooted in ]nvironment.
+This will help with any future video game, to make it feel rooted in environment.
 
 I know of a couple locations on the mountain to do this, and some will be lower elevation near the river, some will be near a creek, and then some will be high up on a ridge, and then above treeline. 
 
