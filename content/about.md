@@ -11,9 +11,9 @@ ShowToc: = true
 - Sustainable strawbale construction
 - Gorilla gardening
 
-🧑 Learning and Tech Goals:
-- NVIM using Kickstart as my text editor and TMUX to manage my SSH session.
-- The Online courses I am working to complete on are Boot.Dev backend languages and skills, but also other courses about Godot. 
+🌐 Learning & Tech Goals:
+- NVIM using Kickstart as my text editor and TMUX to manage my sessions and SSH.
+- Boot.Dev backend track, but also other courses Godot and indi game development. 
 - Devloping a game about Colorado passenger rail past and present, as well as a game about Coorie Homes that incorporates sustainable consturciton techniques and Scotland.
 
 🗺  Random fact: 
