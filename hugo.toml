@@ -20,9 +20,9 @@ url = "/archives/"
 weight = 20
 
 [[menu.main]]
-identifier = "InTheHyperloop"
-name = "InTheHyperloop.com"
-url = "https://www.inthehyperloop.com/"
+identifier = "Boot.Dev Progress"
+name = "Boot.Dev Progress"
+url = "https://www.boot.dev/u/blakeanneberg"
 weight = 30
 
 [[menu.main]]
