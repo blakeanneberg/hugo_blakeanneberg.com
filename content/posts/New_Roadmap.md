@@ -25,7 +25,7 @@ With the help of coding tools and experience from CRG, I think the plan is now t
 - Set up Roadmap
 - Create video showing feature roadmap
 - Finalize features
-- Figure out Dev time for features (content fixes, day light/night cycle, mini games)
+- Figure out Dev time for features (content fixes, Orange Mountain Loop and its content, day light/night cycle, mini games)
 - Make video
 - Dev
 - Make video
