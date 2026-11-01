@@ -31,7 +31,9 @@ With the help of coding tools and experience from CRG, I think the plan is now t
 - Make video
 - Upload CRG Steam update
 
-The River Game and Ski Game and DJS Small Town Cat Game are also goals, and will follow this initial flow:
+# River Game, Ski Game and DJS Small Town Cat Game 
+
+These are also goals and will follow this initial flow:
 - Set up Roadmap
 - Create video showing goal of game and roadmap
 - Start Dev work
