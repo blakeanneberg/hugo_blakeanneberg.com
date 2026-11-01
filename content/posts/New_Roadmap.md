@@ -40,5 +40,5 @@ These are also goals and will follow this initial flow:
 - Video update 
 - Update roadmap
 
-Overall I am really excited to do this. Also working to get CCNA and Boot.DEV completed in 2027. 
+Overall I am really excited to do this. Also working to get CCNA and Boot.DEV completed in 2027 as well as continuing to study Godot, Asprite and Blender.
 
