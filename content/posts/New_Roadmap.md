@@ -40,5 +40,19 @@ These are also goals and will follow this initial flow:
 - Video update 
 - Update roadmap
 
-Overall I am really excited to do this. Also working to get CCNA and Boot.DEV completed in 2027 as well as continuing to study Godot, Asprite and Blender.
+# Other Projects:
+
+Overall I am really excited to do the above but I am also working on: 
+Certs: 
+- CCNA 
+- Boot.Dev Backend completed in 2027 as well as continuing to 
+- Some kind of Project Management in practice cert
+
+Continued Study:
+- Godot
+- Asprite 
+- Blender
+- Bagpipes
+
+
 
